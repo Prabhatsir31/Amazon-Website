@@ -1,1 +1,1 @@
-# Amzon-Website
+# Amazon-Website
